@@ -1,20 +1,19 @@
 body {
     font-family: sans-serif;
-    padding: 0 20px;
+    padding: 0px 20px;
     background-color: #474056;
 }
 
 h1 {
     text-align: center;
     font-weight: 900;
-    margin: 0;
+    margin: 0px;
     font-size: 34px;
     line-height: 48px;
     color: #b9c6ae;
 }
 
-h1 h2,
-h3 {
+h1 h2, h3 {
     color: #231d3c;
 }
 
